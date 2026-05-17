@@ -2,11 +2,14 @@
 
 ## 忙しさを、美しく。インテリア型タスク管理ソリューション
 
-[![](./assets/lp.png)](https://www.youtube.com/watch?v=emxMcyfFROg)
+![](./assets/lp.png)
 
 ## Introduction
 
 スマートフォンや PC でのタスク管理が当たり前になった今、「やることリスト」はますます増える一方です。ただ、画面の中にあるだけのタスクはどこか実感が薄く、自分がどれだけ抱えているかを把握しにくい側面があります。Stacks は、タスクの量を**可視化・物理化**することで、その課題にアプローチするデバイスです。
+
+> [!TIP]
+> Youtube: https://www.youtube.com/watch?v=emxMcyfFROg
 
 ---
 
