@@ -2,7 +2,7 @@
 
 ## 忙しさを、美しく。インテリア型タスク管理ソリューション
 
-![](./assets/lp.png)
+![](../assets/lp.png)
 
 ## Introduction
 
